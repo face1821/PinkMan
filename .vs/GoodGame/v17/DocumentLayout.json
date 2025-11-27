@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IT\\Project\\unityProject\\GoodGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\waypointfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\zongmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\zongmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|e:\\it\\project\\unityproject\\goodgame\\assets\\jiaoben\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\allcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\allcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\endmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|E:\\IT\\Project\\unityProject\\GoodGame\\assets\\jiaoben\\stickyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E2892B-8704-0957-E7DA-7D5595AE8007}|Assembly-CSharp.csproj|solutionrelative:assets\\jiaoben\\stickyplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZongMen.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\ZongMen.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\ZongMen.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\ZongMen.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\ZongMen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:49:45.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\Rotate.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\Rotate.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:00:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StickyPlatform.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\StickyPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\StickyPlatform.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\StickyPlatform.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\StickyPlatform.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:33:33.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaypointFollower.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\WaypointFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\WaypointFollower.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\WaypointFollower.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\WaypointFollower.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:04:43.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\playerController.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\playerController.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\playerController.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\playerController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:44:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllControl.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\AllControl.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\AllControl.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\AllControl.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\AllControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:31:38.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\StartMenu.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\StartMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:08:11.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\MusicManager.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:58:45.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\Finish.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\Finish.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\Finish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:03:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EndMenu.cs",
+              "DocumentMoniker": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\EndMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\jiaoBen\\EndMenu.cs",
+              "ToolTip": "E:\\IT\\Project\\unityProject\\GoodGame\\Assets\\jiaoBen\\EndMenu.cs",
+              "RelativeToolTip": "Assets\\jiaoBen\\EndMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T07:26:21.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

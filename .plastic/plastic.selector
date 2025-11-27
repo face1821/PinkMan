@@ -1,0 +1,4 @@
+repository "GoodGame@tj_wechat_os_qy03rt_lpu2co5hqshwfywj3a@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
